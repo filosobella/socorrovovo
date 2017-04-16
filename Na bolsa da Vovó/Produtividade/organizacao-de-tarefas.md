@@ -15,4 +15,4 @@ http://www.any.do/
 https://todoist.com/
 
 https://toggl.com/
-Ferramenta de controle de produtividade a partir de gestão de tempo.
+- Ferramenta de controle de produtividade a partir de gestão de tempo.
