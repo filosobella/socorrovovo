@@ -7,10 +7,19 @@ Olá, pessoas. O nome é singela homenagem ao desenho "Oma Bitte Kommen" ("Socor
 
 Cansei de deixar links salvos nos navegadores ou .doc no Google Drive. xD
 
-# Na bolsa da Vovó
+## Na bolsa da Vovó
 - [Design](Na%20bolsa%20da%20Vovó/Design)
 - [Front-End](Na%20bolsa%20da%20Vovó/Front-End)
-- [Profissionais do texto](Na%20bolsa%20da%20Vovó/Profissionais%20do%20Texto)
+- [Produtividade](Na%20bolsa%20da%20Vovó/Produtividade)
 - [Outros](Na%20bolsa%20da%20Vovó/Outros)
+
+### Quem ajudou a Vovó a atravessar a rua? xD
+- Dalton Menezes - ([@daltonmenezes](https://github.com/daltonmenezes))
+- Jota Fagner - ([@jotafagner](https://twitter.com/jotafagner))
+
+#### Quer ajudar o "Socorro, Vovó"?
+Mande uma pull request ou envie e-mail para filosobella@gmail.com. <3
+A contribuição será aceita apenas se houver relevância. Não serã oaceitas contribuições com objetivo de auto promoção, discurso de ódio, pirataria, etc. 
+
 
 Créditos da imagem: http://freepik.com
