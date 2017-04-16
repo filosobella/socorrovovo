@@ -8,5 +8,4 @@ Olá, pessoas. O nome é singela homenagem ao desenho "Oma Bitte Kommen" ("Socor
 Cansei de deixar links salvos nos navegadores ou .doc no Google Drive. xD
 
 
-
-Créditos da imagem: <freepik.com>
+Créditos da imagem: http://freepik.com
