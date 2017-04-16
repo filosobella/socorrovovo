@@ -1,4 +1,4 @@
-#Banco de imagens (gratuitos)
+# Banco de imagens (gratuitos)
 Embora sejam gratuitos, é sempre bom atentar-se às permissões de imagens.
 
 https://unsplash.com/
@@ -15,7 +15,7 @@ https://www.splitshire.com/
 http://www.cgtextures.com/
 http://www.amazingtextures.com/
 
-#Banco de imagens (assinatura)
+# Banco de imagens (assinatura)
 
 http://depositphotos.com
 https://fotolia.com/
