@@ -7,7 +7,7 @@ Olá, pessoas. O nome é singela homenagem ao desenho "Oma Bitte Kommen" ("Socor
 
 Cansei de deixar links salvos nos navegadores ou .doc no Google Drive. xD
 
-# Lista de conteúdos
+# Na bolsa da Vovó
 - [Design](Na%20bolsa%20da%20Vovó/Design)
 - [Front-End](Na%20bolsa%20da%20Vovó/Front-End)
 - [Profissionais do texto](Na%20bolsa%20da%20Vovó/Profissionais%20do%20Texto)
