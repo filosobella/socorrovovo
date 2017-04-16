@@ -18,9 +18,12 @@ Cansei de deixar links salvos nos navegadores ou .doc no Google Drive. xD
 - Jota Fagner - ([@jotafagner](https://twitter.com/jotafagner))
 
 #### Quer ajudar o "Socorro, Vovó"?
+
 Mande uma pull request ou envie e-mail para filosobella@gmail.com. <3
 
-A contribuição será aceita apenas se houver relevância. Não serão aceitas contribuições com objetivo de auto promoção, discurso de ódio, pirataria, etc. 
+A contribuição será aceita apenas se houver relevância.
+
+Não serão aceitas contribuições com objetivo de auto promoção, discurso de ódio, pirataria, etc.
 
 
 Créditos da imagem: http://freepik.com
