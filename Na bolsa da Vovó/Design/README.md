@@ -2,4 +2,4 @@
 
 ## Lista de conteúdos
 - [Banco de imagens](banco-de-imagens.md)
-- [Bibliotecas de conteúdo](bibliotecasdeconteudo.md)
+- [Ferramentas e recursos](ferramentaserecursos.md)

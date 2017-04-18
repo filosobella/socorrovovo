@@ -1,42 +1,88 @@
-# Banco de imagens (gratuitos)
+# Banco de imagens
 Embora sejam gratuitos, é sempre bom atentar-se às permissões de imagens.
 
-https://unsplash.com/
+## A
 
-http://visualhunt.com/
+[Amazing Textures] http://www.amazingtextures.com
 
-https://magdeleine.co/
+## B
 
-http://pt.freeimages.com/
+## C
 
-http://www.kozzi.com/
+[CG Textures] http://www.cgtextures.com
 
-http://stockvault.net/
+## D
 
-http://www.lifeofpix.com/
+[Depositphotos] http://depositphotos.com | Assinatura
 
-https://pixabay.com/
+[Dreamstime] http://www.dreamstime.com | Assinatura
 
-https://www.pexels.com/
+## E
 
-http://www.gratisography.com/
+## F
 
-https://www.splitshire.com/
+[Freeimages] http://pt.freeimages.com
 
-http://www.cgtextures.com/
+[Fotolia] https://fotolia.com | Assinatura
 
-http://www.amazingtextures.com/
+## G
 
-# Banco de imagens (assinatura)
+[Gratisography] http://www.gratisography.com
 
-http://depositphotos.com
+## H
 
-https://fotolia.com/
+## I
 
-http://www.istockphoto.com/
+[iStockphoto] http://www.istockphoto.com/br | Assinatura
 
-http://www.dreamstime.com/
+## J
 
-https://shutterstock.com
+## K
 
-http://www.gettyimages.com/
+## L
+
+[Lifeofpix] http://www.lifeofpix.com
+
+## M
+
+[Magdeleine] https://magdeleine.co
+
+## N
+
+## O
+
+## P
+
+[Pixabay] https://pixabay.com
+
+[Pexels] https://www.pexels.com
+
+## Q
+
+## R
+
+## S
+
+[SplitShire] https://www.splitshire.com
+
+[Stockvault] http://stockvault.net
+
+[Shutterstock] https://shutterstock.com | Assinatura
+
+## T
+
+## U
+
+[Unsplash] https://unsplash.com
+
+## V
+
+[Visualhunt] http://visualhunt.com
+
+## W
+
+## X
+
+## Y
+
+## Z
