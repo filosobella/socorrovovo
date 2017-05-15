@@ -1,5 +1,7 @@
 # Socorro, Vovó
-Ferramentas e coisas úteis para Designers, Profissionais do texto, Devs, etc.
+O Socorro Vovó está crescendo e ganhando vários netinhos. Estamos criando um site!
+
+— Socorro Vovó, projeto atualizado: [https://github.com/socorrovovo](https://github.com/socorrovovo)
 
 ![alt text](img/socorrovovo.png)
 
