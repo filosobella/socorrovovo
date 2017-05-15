@@ -24,6 +24,3 @@ Mande uma pull request ou envie e-mail para filosobella@gmail.com. <3
 A contribuição será aceita apenas se houver relevância.
 
 Não serão aceitas contribuições com objetivo de auto promoção, discurso de ódio, pirataria, etc.
-
-
-Créditos da imagem: http://freepik.com
